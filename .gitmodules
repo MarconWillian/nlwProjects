@@ -1,0 +1,9 @@
+[submodule "01-ecoleta"]
+	path = 01-ecoleta
+	url = git@github.com:MarconWillian-Study/Ecoleta.git
+[submodule "02-proffy"]
+	path = 02-proffy
+	url = git@github.com:MarconWillian-Study/Proffy.git
+[submodule "omnistack/11-beTheHero"]
+	path = omnistack/11-beTheHero
+	url = git@github.com:MarconWillian-Study/BeTheHero.git
